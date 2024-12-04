@@ -1,0 +1,23 @@
+[
+    {
+        "question":"What is PlacedByUU?",
+        "answer":"PlacedByUU  is a Placement Portal application allows student to apply and search for upcoming placement drives and CRC to get response from the students who are intreseted for the role in the behalf of Different companies,it provides features for both students and CRC department,with user-friendly interface and secure authentication."
+
+},{
+    "question":"How do we post a job?",
+    "answer":"As a CRC department,you can post a job navigating to the 'Post Job' section after logging in, fill in the upcoming on campus drive details and submit the form to create a new job listing."
+},
+{
+    "question":"How can I search for jobs?",
+    "answer":"Students can search for jobs by keywords,location,category,and other filters using the search bar on the homepage or the dedicated job search page."
+},{
+    "question":"How can I apply for a job?",
+    "answer":"To apply for a Drive,click on the Drive listing and follow the application instructions provided. You may need to upload resume and provide additional information."
+},{
+    "question":"Can i save jobs for apply later?",
+    "answer":"Yes, you can save job listings by clicking the 'Save job' button on the Drive listing, Saved Drives can be accessed from your profile  under the 'Saved jobs' section."
+},{
+    "question":"How do i track my job applications?",
+    "answer":"Students can track the status  of their applications from the 'Application' section in their profile. this section provides updates on the progress of each application."
+}
+]
