@@ -1,5 +1,4 @@
- /*@type {import('tailwindcss').Config}*/ 
- const tailwindcssAnimate=require("tailwindcss-animate");
+import tailwindcssAnimate from "tailwindcss-animate";
  
 export default {
   darkMode: ["class"],
